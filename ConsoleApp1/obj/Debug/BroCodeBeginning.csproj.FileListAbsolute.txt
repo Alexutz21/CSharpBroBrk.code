@@ -1,0 +1,7 @@
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\BroCodeBeginning.csprojAssemblyReference.cache
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\BroCodeBeginning.csproj.CoreCompileInputs.cache
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\bin\Debug\BroCodeBeginning.exe.config
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\bin\Debug\BroCodeBeginning.exe
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\bin\Debug\BroCodeBeginning.pdb
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\BroCodeBeginning.exe
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\BroCodeBeginning.pdb

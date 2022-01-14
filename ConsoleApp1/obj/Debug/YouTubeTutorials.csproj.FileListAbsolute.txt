@@ -1,0 +1,7 @@
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\YouTubeTutorials.csproj.CoreCompileInputs.cache
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\bin\Debug\YouTubeTutorials.exe.config
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\bin\Debug\YouTubeTutorials.exe
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\bin\Debug\YouTubeTutorials.pdb
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\YouTubeTutorials.exe
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\YouTubeTutorials.pdb
+D:\C# Code\Tutorials\BroCode\ConsoleApp1\ConsoleApp1\obj\Debug\YouTubeTutorials.csproj.AssemblyReference.cache
